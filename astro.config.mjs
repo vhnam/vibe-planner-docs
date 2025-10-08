@@ -5,7 +5,7 @@ import starlight from "@astrojs/starlight";
 import starlightThemeNova from "starlight-theme-nova";
 
 export default defineConfig({
-  site: "https://vhnam.github.io/vibe-planner-docs",
+  site: process.env.HOST_ENDPOINT,
   redirects: {
     "/": {
       status: 302,
