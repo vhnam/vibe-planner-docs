@@ -57,6 +57,11 @@ export default defineConfig({
               slug: "needs",
               translations: { vi: "Nhu cầu" },
             },
+            {
+              label: "Solutions",
+              slug: "solutions",
+              translations: { vi: "Giải pháp" },
+            },
           ],
           translations: { vi: "Cốt lõi" },
         },
