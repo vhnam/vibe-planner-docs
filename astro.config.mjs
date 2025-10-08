@@ -5,7 +5,7 @@ import starlight from "@astrojs/starlight";
 import starlightThemeNova from "starlight-theme-nova";
 
 export default defineConfig({
-  site: "http://localhost:4321",
+  site: "https://vhnam.github.io",
   redirects: {
     "/": {
       status: 302,
