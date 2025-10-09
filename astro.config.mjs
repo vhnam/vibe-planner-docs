@@ -62,6 +62,11 @@ export default defineConfig({
               slug: "solutions",
               translations: { vi: "Giải pháp" },
             },
+            {
+              label: "Stakeholders",
+              slug: "stakeholders",
+              translations: { vi: "Các bên liên quan" },
+            },
           ],
           translations: { vi: "Cốt lõi" },
         },
