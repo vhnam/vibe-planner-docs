@@ -435,9 +435,9 @@ Thị trường mới/Phân khúc thấp
 
 ## 7. Tóm Tắt: Ma Trận Các Loại Thay Đổi
 
-### 7.1. Các Nhận Định & Ý Nghĩa
+**Các Nhận Định & Ý Nghĩa**
 
-#### 7.1.1. Sự kết hợp độc đáo
+### 7.1. Sự kết hợp độc đáo
 
 Dự án này **KHÔNG phải chỉ một loại thay đổi**, mà là **kết hợp phức tạp**:
 
@@ -455,7 +455,7 @@ Có kế hoạch + Phát sinh (nature)
 
 ---
 
-#### 7.1.2. Tại sao khó
+### 7.2. Tại sao khó
 
 **Nhiều chiều của thay đổi có tác động lớn:**
 
@@ -468,7 +468,7 @@ Có kế hoạch + Phát sinh (nature)
 
 ---
 
-#### 7.1.3. Các yếu tố thành công quan trọng
+### 7.3. Các yếu tố thành công quan trọng
 
 Để thành công với **nhiều thay đổi đồng thời**, cần:
 
@@ -494,7 +494,7 @@ Có kế hoạch + Phát sinh (nature)
 
 ---
 
-#### 7.1.4. Tác động của Lịch trình
+### 7.4. Tác động của Lịch trình
 
 **Với nhiều thay đổi có rủi ro cao, lịch trình thực tế sẽ là:**
 

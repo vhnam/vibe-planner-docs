@@ -435,9 +435,9 @@ New market/Low-end segment
 
 ## 7. Summary: Matrix of Change Types
 
-### 7.1. Key Insights & Implications
+**Key Insights & Implications**
 
-#### 7.1.1. Unique Combination
+### 7.1. Unique Combination
 
 This project is **NOT just one type of change**, but a **complex combination**:
 
@@ -455,7 +455,7 @@ Planned + Emergent (nature)
 
 ---
 
-#### 7.1.2. Why It's Challenging
+### 7.2. Why It's Challenging
 
 **Multiple dimensions of change with major impact:**
 
@@ -468,7 +468,7 @@ Planned + Emergent (nature)
 
 ---
 
-#### 7.1.3. Critical Success Factors
+### 7.3. Critical Success Factors
 
 To succeed with **multiple simultaneous changes**, need:
 
@@ -494,7 +494,7 @@ To succeed with **multiple simultaneous changes**, need:
 
 ---
 
-#### 7.1.4. Timeline Implications
+### 7.4. Timeline Implications
 
 **With multiple high-risk changes, realistic timeline will be:**
 
