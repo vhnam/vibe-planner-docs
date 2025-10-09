@@ -2,7 +2,7 @@
 title: Giải pháp
 ---
 
-## I. GIẢI PHÁP CHUYỂN ĐỔI VÀ CHIẾN LƯỢC
+## 1. Giải pháp Chuyển đổi và Chiến lược
 
 **Lý do áp dụng:**
 
@@ -12,9 +12,9 @@ title: Giải pháp
 
 ---
 
-### **A. Kiến trúc Nghiệp vụ**
+### 1.1. Kiến trúc Nghiệp vụ
 
-#### **1. Các Khả năng Nghiệp vụ cần Phát triển mới**
+#### 1.1.1. Các Khả năng Nghiệp vụ cần Phát triển mới
 
 **Bản đồ Năng lực:**
 
@@ -68,7 +68,7 @@ Cấp 1: NỀN TẢNG LẬP KẾ HOẠCH DU LỊCH & CỘNG ĐỒNG
 
 ---
 
-#### **2. Định nghĩa Trạng thái Tương lai**
+#### 1.1.2. Định nghĩa Trạng thái Tương lai
 
 **Mục tiêu Kinh doanh:**
 
@@ -134,7 +134,7 @@ Tương lai: Cấu trúc khởi nghiệp
 
 ---
 
-#### **3. Phân tích Năng lực Kinh doanh**
+#### 1.1.3. Phân tích Năng lực Kinh doanh
 
 **Bản đồ Đánh giá Năng lực:**
 
@@ -171,9 +171,9 @@ Giai đoạn 3 (Mở rộng - Tháng 10–12): Các Năng lực P2
 
 ---
 
-### **B. Cơ cấu Tổ chức & Nhân sự**
+### 1.2. Cơ cấu Tổ chức & Nhân sự
 
-#### **1. Mô hình Hoạt động Mục tiêu**
+#### 1.2.1. Mô hình Hoạt động Mục tiêu
 
 **Cấu trúc Tổ chức (Trạng thái Tương lai):**
 
@@ -214,7 +214,7 @@ Tổng số nhân sự: 8–9 FTE (Năm thứ nhất)
 
 ---
 
-#### **2. Yêu cầu về Kỹ năng & Năng lực**
+#### 1.2.2. Yêu cầu về Kỹ năng & Năng lực
 
 **Phân tích Khoảng cách Kỹ năng:**
 
@@ -235,7 +235,7 @@ Tổng số nhân sự: 8–9 FTE (Năm thứ nhất)
 
 ---
 
-#### **3. Quản lý Thay đổi cho Đội ngũ**
+#### 1.2.3. Quản lý Thay đổi cho Đội ngũ
 
 **Quy trình Onboarding:**
 
@@ -254,9 +254,9 @@ Tổng số nhân sự: 8–9 FTE (Năm thứ nhất)
 
 ---
 
-### **C. Yêu cầu về Cơ sở vật chất & Hạ tầng**
+### 1.3. Yêu cầu về Cơ sở vật chất & Hạ tầng
 
-#### **1. Cơ sở vật chất Vật lý**
+#### 1.3.1. Cơ sở vật chất Vật lý
 
 **Không gian làm việc:**
 
@@ -273,7 +273,7 @@ Tổng số nhân sự: 8–9 FTE (Năm thứ nhất)
 
 ---
 
-#### **2. Hạ tầng Công nghệ**
+#### 1.3.2. Hạ tầng Công nghệ
 
 **Hạ tầng Đám mây (AWS):**
 
@@ -307,7 +307,7 @@ Tổng số nhân sự: 8–9 FTE (Năm thứ nhất)
 
 ---
 
-#### **3. Công cụ Phát triển & Cộng tác**
+#### 1.3.3. Công cụ Phát triển & Cộng tác
 
 | Danh mục             | Công cụ             | Mục đích                  |
 | -------------------- | ------------------- | ------------------------- |
@@ -322,7 +322,7 @@ Tổng số nhân sự: 8–9 FTE (Năm thứ nhất)
 
 ---
 
-## II. GIẢI PHÁP CẢI TIẾN QUY TRÌNH
+## 2. Giải pháp Cải tiến Quy trình
 
 **Lý do áp dụng:**
 
@@ -332,7 +332,7 @@ Tổng số nhân sự: 8–9 FTE (Năm thứ nhất)
 
 ---
 
-### **A. Các quy trình kinh doanh cốt lõi (Mô hình To-Be)**
+### 2.1. Các quy trình kinh doanh cốt lõi (Mô hình To-Be)
 
 **Quy trình 1: Quy trình lập kế hoạch chuyến đi**
 
@@ -473,7 +473,7 @@ CHỈ SỐ THÀNH CÔNG:
 
 ---
 
-### **B. Khung quy tắc nghiệp vụ (Business Rules Framework)**
+### 2.2. Khung quy tắc nghiệp vụ (Business Rules Framework)
 
 **Nhóm quy tắc 1: Quy tắc chất lượng nội dung**
 
@@ -514,7 +514,7 @@ CHỈ SỐ THÀNH CÔNG:
 
 ---
 
-### **C. Tài sản & tài liệu quy trình**
+### 2.3. Tài sản & tài liệu quy trình
 
 | Loại tài sản                        | Tài sản cụ thể                                                                     | Mục đích                    |
 | ----------------------------------- | ---------------------------------------------------------------------------------- | --------------------------- |
@@ -526,7 +526,7 @@ CHỈ SỐ THÀNH CÔNG:
 
 ---
 
-### **D. Chỉ số hiệu suất quy trình (Process Performance Metrics)**
+### 2.4. Chỉ số hiệu suất quy trình (Process Performance Metrics)
 
 **Các chỉ số KPI của quy trình:**
 
@@ -543,7 +543,7 @@ CHỈ SỐ THÀNH CÔNG:
 
 ---
 
-## III. GIẢI PHÁP CÔNG NGHỆ VÀ THÔNG TIN
+## 3. Giải pháp Công nghệ và Thông tin
 
 **Lý do áp dụng:**
 
@@ -553,9 +553,9 @@ CHỈ SỐ THÀNH CÔNG:
 
 ---
 
-### **A. Kiến trúc hệ thống & Công nghệ sử dụng**
+### 3.1. Kiến trúc hệ thống & Công nghệ sử dụng
 
-#### **1. Các thành phần giải pháp công nghệ**
+#### 3.1.1. Các thành phần giải pháp công nghệ
 
 **Kiến trúc hệ thống (mức cao):**
 
@@ -608,7 +608,7 @@ CHỈ SỐ THÀNH CÔNG:
 
 ---
 
-#### **2. Ma trận năng lực công nghệ**
+#### 3.1.2. Ma trận năng lực công nghệ
 
 | Năng lực          | Công nghệ lựa chọn                | Lý do lựa chọn                                                                | Giải pháp thay thế xem xét   |
 | ----------------- | --------------------------------- | ----------------------------------------------------------------------------- | ---------------------------- |
@@ -623,7 +623,7 @@ CHỈ SỐ THÀNH CÔNG:
 
 ---
 
-### **B. Các yêu cầu phi chức năng (NFRs)**
+### 3.2. Các yêu cầu phi chức năng (NFRs)
 
 **Hiệu năng:**
 
@@ -670,9 +670,9 @@ CHỈ SỐ THÀNH CÔNG:
 
 ---
 
-### **C. Quản lý dữ liệu & Phân tích kinh doanh**
+### 3.3. Quản lý dữ liệu & Phân tích kinh doanh
 
-#### **1. Chiến lược dữ liệu**
+#### 3.3.1. Chiến lược dữ liệu
 
 **Dữ liệu như lợi thế cạnh tranh:**
 
@@ -705,7 +705,7 @@ BÁO CÁO & BẢNG ĐIỀU KHIỂN
 
 ---
 
-#### **2. Các chỉ số và phân tích chính**
+#### 3.3.2. Các chỉ số và phân tích chính
 
 **Bảng điều khiển phân tích người dùng:**
 
@@ -743,7 +743,7 @@ BÁO CÁO & BẢNG ĐIỀU KHIỂN
 
 ---
 
-#### **3. Quản lý chất lượng dữ liệu**
+#### 3.3.3. Quản lý chất lượng dữ liệu
 
 | Khía cạnh chất lượng dữ liệu | Cách triển khai                                | Mục tiêu                 |
 | ---------------------------- | ---------------------------------------------- | ------------------------ |
@@ -755,9 +755,9 @@ BÁO CÁO & BẢNG ĐIỀU KHIỂN
 
 ---
 
-### **D. Kiến trúc tích hợp**
+### 3.4. Kiến trúc tích hợp
 
-#### **1. Tích hợp bên thứ ba**
+#### 3.4.1. Tích hợp bên thứ ba
 
 **Sơ đồ tích hợp:**
 
@@ -803,7 +803,7 @@ Nền tảng của chúng ta
 
 ---
 
-#### **2. Nguyên tắc thiết kế API**
+#### 3.4.2. Nguyên tắc thiết kế API
 
 **Tiêu chuẩn API RESTful:**
 
@@ -842,7 +842,7 @@ GET    /api/v1/destinations/{id}/reviews
 
 ---
 
-#### **3. Quản lý rủi ro tích hợp**
+#### 3.4.3. Quản lý rủi ro tích hợp
 
 | Tích hợp           | Rủi ro                    | Xác suất   | Ảnh hưởng  | Biện pháp giảm thiểu                                           |
 | ------------------ | ------------------------- | ---------- | ---------- | -------------------------------------------------------------- |
@@ -854,9 +854,9 @@ GET    /api/v1/destinations/{id}/reviews
 
 ---
 
-## IV. LỰA CHỌN VÀ KHUYẾN NGHỊ GIẢI PHÁP
+## 4. Lựa chọn và Khuyến nghị Giải pháp
 
-### **A. Phân tích các Phương án Thiết kế**
+### 4.1. Phân tích các Phương án Thiết kế
 
 #### **Phương án 1: Xây dựng từ đầu (Phát triển tùy chỉnh)**
 
@@ -1136,9 +1136,9 @@ Thấp trên tất cả các mặt (kỹ thuật, tiến độ, chi phí, chất
 
 ---
 
-### **B. Phân tích Giá trị & Trường hợp Kinh doanh**
+### 4.2. Phân tích Giá trị & Trường hợp Kinh doanh
 
-#### **1. Phân tích Chi phí – Lợi ích**
+#### 4.2.1. Phân tích Chi phí – Lợi ích
 
 **Đầu tư (Năm 1):**
 
@@ -1169,7 +1169,7 @@ Thấp trên tất cả các mặt (kỹ thuật, tiến độ, chi phí, chất
 
 ---
 
-#### **2. Giá trị Chiến lược (Phi tài chính)**
+#### 4.2.2. Giá trị Chiến lược (Phi tài chính)
 
 | Loại giá trị                    | Mô tả                           | Định lượng                               |
 | ------------------------------- | ------------------------------- | ---------------------------------------- |
@@ -1182,7 +1182,7 @@ Thấp trên tất cả các mặt (kỹ thuật, tiến độ, chi phí, chất
 
 ---
 
-#### **3. Giá trị Điều chỉnh Rủi ro**
+#### 4.2.3. Giá trị Điều chỉnh Rủi ro
 
 **Xác suất kịch bản:**
 
@@ -1196,7 +1196,7 @@ Thấp trên tất cả các mặt (kỹ thuật, tiến độ, chi phí, chất
 
 ---
 
-### **C. Giải pháp Đề xuất: Cách tiếp cận Kết hợp**
+### 4.3. Giải pháp Đề xuất: Cách tiếp cận Kết hợp
 
 **Khuyến nghị cuối cùng:**
 
@@ -1226,7 +1226,7 @@ Thấp trên tất cả các mặt (kỹ thuật, tiến độ, chi phí, chất
 
 ---
 
-### **D. Lộ trình Triển khai**
+### 4.4. Lộ trình Triển khai
 
 **Giai đoạn 1: MVP (Tháng 0–3)**
 
@@ -1260,9 +1260,9 @@ Thấp trên tất cả các mặt (kỹ thuật, tiến độ, chi phí, chất
 
 ---
 
-## V. PHÂN BỔ YÊU CẦU GIẢI PHÁP
+## 5. Phân bổ Yêu cầu Giải pháp
 
-### **A. Ánh xạ yêu cầu sang các thành phần**
+### 5.1. Ánh xạ yêu cầu sang các thành phần
 
 **Bảng phân bổ:**
 
@@ -1279,7 +1279,7 @@ Thấp trên tất cả các mặt (kỹ thuật, tiến độ, chi phí, chất
 
 ---
 
-### **B. Yêu cầu của bên liên quan → Thành phần giải pháp**
+### 5.2. Yêu cầu của bên liên quan → Thành phần giải pháp
 
 **Ví dụ về truy vết yêu cầu:**
 
@@ -1320,7 +1320,7 @@ Các thành phần giải pháp:
 
 ---
 
-### **C. Yêu cầu chuyển đổi (Transition Requirements)**
+### 5.3. Yêu cầu chuyển đổi (Transition Requirements)
 
 **Những gì cần thiết để chuyển đổi từ Trạng thái hiện tại → Trạng thái tương lai:**
 
@@ -1337,7 +1337,7 @@ Các thành phần giải pháp:
 
 ---
 
-## VI. HOÀN THIỆN ĐỊNH NGHĨA GIẢI PHÁP
+## 6. Hoàn thiện Định nghĩa Giải pháp
 
 **Tóm tắt giải pháp đã xác định:**
 
