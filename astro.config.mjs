@@ -143,6 +143,11 @@ export default defineConfig({
               slug: "knowledge-areas/business-analysis-information",
               translations: { vi: "Thông tin phân tích nghiệp vụ" },
             },
+            {
+              label: "Requirements",
+              slug: "knowledge-areas/requirements",
+              translations: { vi: "Yêu cầu" },
+            },
           ],
           translations: { vi: "Lĩnh vực kiến thức" },
         },
