@@ -108,6 +108,11 @@ export default defineConfig({
               slug: "knowledge-areas/solution-scope",
               translations: { vi: "Phạm vi giải pháp" },
             },
+            {
+              label: "Business Analysis Approach",
+              slug: "knowledge-areas/business-analysis-approach",
+              translations: { vi: "Cách tiếp cận phân tích kinh doanh" },
+            },
           ],
           translations: { vi: "Lĩnh vực kiến thức" },
         },
