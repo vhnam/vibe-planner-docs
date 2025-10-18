@@ -103,6 +103,11 @@ export default defineConfig({
               slug: "knowledge-areas/future-state",
               translations: { vi: "Trạng thái tương lai" },
             },
+            {
+              label: "Solution Scope",
+              slug: "knowledge-areas/solution-scope",
+              translations: { vi: "Phạm vi giải pháp" },
+            },
           ],
           translations: { vi: "Lĩnh vực kiến thức" },
         },
