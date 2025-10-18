@@ -138,6 +138,11 @@ export default defineConfig({
               slug: "knowledge-areas/elicitation-results",
               translations: { vi: "Kết quả lấy ý kiến" },
             },
+            {
+              label: "Business Analysis Information",
+              slug: "knowledge-areas/business-analysis-information",
+              translations: { vi: "Thông tin phân tích nghiệp vụ" },
+            },
           ],
           translations: { vi: "Lĩnh vực kiến thức" },
         },
