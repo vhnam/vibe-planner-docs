@@ -123,6 +123,11 @@ export default defineConfig({
               slug: "knowledge-areas/governance-approach",
               translations: { vi: "Cách quản trị" },
             },
+            {
+              label: "Information Management Approach",
+              slug: "knowledge-areas/information-management-approach",
+              translations: { vi: "Cách quản lý thông tin" },
+            },
           ],
           translations: { vi: "Lĩnh vực kiến thức" },
         },
