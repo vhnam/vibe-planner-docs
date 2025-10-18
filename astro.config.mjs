@@ -72,6 +72,11 @@ export default defineConfig({
               slug: "value",
               translations: { vi: "Giá trị" },
             },
+            {
+              label: "Context",
+              slug: "context",
+              translations: { vi: "Bối cảnh" },
+            },
           ],
           translations: { vi: "Cốt lõi" },
         },
