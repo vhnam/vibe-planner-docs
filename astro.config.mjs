@@ -117,7 +117,12 @@ export default defineConfig({
               label: "Stakeholder Engagement Approach",
               slug: "knowledge-areas/stakeholder-engagement-approach",
               translations: { vi: "Cách tương tác với các bên liên quan" },
-            }
+            },
+            {
+              label: "Governance Approach",
+              slug: "knowledge-areas/governance-approach",
+              translations: { vi: "Cách quản trị" },
+            },
           ],
           translations: { vi: "Lĩnh vực kiến thức" },
         },
