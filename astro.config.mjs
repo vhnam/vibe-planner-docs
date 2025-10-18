@@ -98,6 +98,11 @@ export default defineConfig({
               slug: "knowledge-areas/business-objectives",
               translations: { vi: "Mục tiêu kinh doanh" },
             },
+            {
+              label: "Future State",
+              slug: "knowledge-areas/future-state",
+              translations: { vi: "Trạng thái tương lai" },
+            },
           ],
           translations: { vi: "Lĩnh vực kiến thức" },
         },
