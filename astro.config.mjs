@@ -45,40 +45,51 @@ export default defineConfig({
       ],
       sidebar: [
         {
-          label: "Core",
+          label: "Cores",
           items: [
             {
               label: "Changes",
-              slug: "changes",
+              slug: "cores/changes",
               translations: { vi: "Chuyển đổi" },
             },
             {
               label: "Needs",
-              slug: "needs",
+              slug: "cores/needs",
               translations: { vi: "Nhu cầu" },
             },
             {
               label: "Solutions",
-              slug: "solutions",
+              slug: "cores/solutions",
               translations: { vi: "Giải pháp" },
             },
             {
               label: "Stakeholders",
-              slug: "stakeholders",
+              slug: "cores/stakeholders",
               translations: { vi: "Các bên liên quan" },
             },
             {
               label: "Value",
-              slug: "value",
+              slug: "cores/value",
               translations: { vi: "Giá trị" },
             },
             {
               label: "Context",
-              slug: "context",
+              slug: "cores/context",
               translations: { vi: "Bối cảnh" },
             },
           ],
           translations: { vi: "Cốt lõi" },
+        },
+        {
+          label: "Knowledge Areas",
+          items: [
+            {
+              label: "Current State",
+              slug: "knowledge-areas/current-state",
+              translations: { vi: "Phân tích hiện trạng" },
+            },
+          ],
+          translations: { vi: "Lĩnh vực kiến thức" },
         },
         {
           label: "Appendix",
