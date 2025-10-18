@@ -128,6 +128,11 @@ export default defineConfig({
               slug: "knowledge-areas/information-management-approach",
               translations: { vi: "Cách quản lý thông tin" },
             },
+            {
+              label: "Elicitation Activity Plan",
+              slug: "knowledge-areas/elicitation-activity-plan",
+              translations: { vi: "Bản kế hoạch thu thập thông tin" },
+            },
           ],
           translations: { vi: "Lĩnh vực kiến thức" },
         },
