@@ -133,6 +133,11 @@ export default defineConfig({
               slug: "knowledge-areas/elicitation-activity-plan",
               translations: { vi: "Bản kế hoạch thu thập thông tin" },
             },
+            {
+              label: "Elicitation Results",
+              slug: "knowledge-areas/elicitation-results",
+              translations: { vi: "Kết quả lấy ý kiến" },
+            },
           ],
           translations: { vi: "Lĩnh vực kiến thức" },
         },
