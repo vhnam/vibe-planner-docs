@@ -88,6 +88,11 @@ export default defineConfig({
               slug: "knowledge-areas/current-state",
               translations: { vi: "Phân tích hiện trạng" },
             },
+            {
+              label: "Business Requirements",
+              slug: "knowledge-areas/business-requirements",
+              translations: { vi: "Yêu cầu kinh doanh" },
+            },
           ],
           translations: { vi: "Lĩnh vực kiến thức" },
         },
