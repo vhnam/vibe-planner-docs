@@ -4,99 +4,99 @@ title: BUSINESS REQUIREMENTS ANALYSIS
 
 ## **1. BUSINESS CONTEXT**
 
-- **Thị trường du lịch nội địa Việt Nam** tăng trưởng **15–20%/năm**, quy mô **$10–15 tỷ USD**.
-- **Người dùng mục tiêu:** 18–45 tuổi (~40 triệu người), smartphone >70%.
-- Hành vi du lịch chuyển dịch từ “booking-driven” sang **“self-organized trip”** → nhu cầu lên kế hoạch, tìm hiểu, cộng tác tăng mạnh.
-- Hiện **chưa có nền tảng Việt Nam nào “all-in-one”**, trong khi các ông lớn (Google, Traveloka, TripAdvisor) chưa localize cho bối cảnh Việt Nam.
-- **Cửa sổ cơ hội:** 2–3 năm trước khi cạnh tranh trực tiếp hình thành.
+- **Vietnam’s domestic tourism market** is growing at **15–20% per year**, with a size of **$10–15 billion USD**.
+- **Target users:** Aged 18–45 (~40 million people), smartphone penetration >70%.
+- Travel behavior is shifting from “booking-driven” to **“self-organized trips”** → strong increase in demand for planning, research, and collaboration.
+- Currently, **no Vietnamese “all-in-one” platform** exists, while major players (Google, Traveloka, TripAdvisor) have not localized for the Vietnamese context.
+- **Opportunity window:** 2–3 years before direct competition emerges.
 
 ---
 
 ## **2. STRATEGIC PAIN POINTS & VALUE GAP**
 
-| Vấn đề chính                                                | Ảnh hưởng                               | Cơ hội                                    |
-| ----------------------------------------------------------- | --------------------------------------- | ----------------------------------------- |
-| **Phân mảnh công cụ**: phải dùng 5–10 app khác nhau để plan | Mất 10–15h mỗi chuyến                   | Tích hợp toàn bộ vào 1 nền tảng           |
-| **Thiếu review đáng tin cậy**                               | 55% người dùng không tin nguồn hiện tại | Xây dựng hệ sinh thái review xác thực     |
-| **Khó phối hợp khi đi nhóm**                                | 80% nhóm gặp vấn đề                     | Cung cấp real-time collaboration          |
-| **Kiến thức sau chuyến đi bị lãng phí**                     | 85% không chia sẻ lại                   | Tạo vòng chia sẻ & gamification cộng đồng |
+| Main Issue                                             | Impact                                   | Opportunity                              |
+| ------------------------------------------------------ | ---------------------------------------- | ---------------------------------------- |
+| **Fragmented tools**: need 5–10 different apps to plan | 10–15 hours lost per trip                | Integrate everything into one platform   |
+| **Lack of trustworthy reviews**                        | 55% of users don’t trust current sources | Build an authentic review ecosystem      |
+| **Hard to coordinate in group trips**                  | 80% of groups face issues                | Provide real-time collaboration          |
+| **Travel knowledge goes to waste post-trip**           | 85% don’t share back                     | Create sharing loop & gamified community |
 
-💡 **Value Gap:** Thị trường thiếu một nền tảng “Vietnamese-first” giúp người dùng **lên kế hoạch nhanh hơn 50%**, **tin cậy hơn**, và **gắn kết cộng đồng du lịch**.
+💡 **Value Gap:** The market lacks a “Vietnamese-first” platform helping users **plan 50% faster**, **trust more**, and **build a travel community**.
 
 ---
 
 ## **3. BUSINESS GOALS**
 
-| ID        | Mục tiêu                    | Chỉ số thành công (KPIs)           |
-| --------- | --------------------------- | ---------------------------------- |
-| **BG-01** | Giảm thời gian lập kế hoạch | ≤7h cho chuyến 3–4 ngày            |
-| **BG-02** | Tăng niềm tin vào review    | ≥75% người dùng thấy “reliable”    |
-| **BG-03** | Kích hoạt cộng đồng chia sẻ | ≥60% người dùng viết review        |
-| **BG-04** | Thu hút SMEs & điểm đến     | ≥500 SMEs đăng ký năm 1            |
-| **BG-05** | Đạt doanh thu khởi điểm     | ≥$50K/năm đầu từ affiliate/premium |
+| ID        | Goal                        | Success Metric (KPIs)               |
+| --------- | --------------------------- | ----------------------------------- |
+| **BG-01** | Reduce trip planning time   | ≤7h for a 3–4 day trip              |
+| **BG-02** | Increase trust in reviews   | ≥75% users rate them as “reliable”  |
+| **BG-03** | Activate sharing community  | ≥60% users write reviews            |
+| **BG-04** | Attract SMEs & destinations | ≥500 SMEs sign up in year 1         |
+| **BG-05** | Achieve initial revenue     | ≥$50K/year 1 from affiliate/premium |
 
 ---
 
 ## **4. CORE BUSINESS REQUIREMENTS**
 
-Xem chi tiết tại [CORE BUSINESS REQUIREMENTS EXPLANATION](/en/appendix/business-requirements/)
+See details at [CORE BUSINESS REQUIREMENTS EXPLANATION](/en/appendix/business-requirements/)
 
-| ID        | Business Requirement                                                                           | Mục tiêu giá trị                           |
-| --------- | ---------------------------------------------------------------------------------------------- | ------------------------------------------ |
-| **BR-01** | **Unified Travel Planner** – tích hợp tìm kiếm, sắp xếp, ghi chú, ngân sách trong 1 nền tảng   | Giải quyết phân mảnh & tiết kiệm thời gian |
-| **BR-02** | **AI Recommendation Engine** – gợi ý hành trình, địa điểm, hoạt động theo sở thích & ngân sách | Cá nhân hóa trải nghiệm                    |
-| **BR-03** | **Trusted Review System** – xác thực review thật, chống spam, phân loại theo người Việt        | Xây dựng niềm tin nội dung                 |
-| **BR-04** | **Group Collaboration** – lập kế hoạch nhóm real-time, có voting & version control             | Tăng tính phối hợp nhóm                    |
-| **BR-05** | **Knowledge Sharing Loop** – người dùng có động lực chia sẻ lại trải nghiệm, plan, tips        | Tạo cộng đồng bền vững                     |
-| **BR-06** | **Local Business Hub** – kênh SME/điểm đến hiển thị, đo hiệu quả, thu hút khách                | Mở rộng hệ sinh thái & doanh thu           |
-| **BR-07** | **Mobile-First & Scalable Platform** – UX mượt, load nhanh, ổn định                            | Giữ chân người dùng, tối ưu chi phí        |
-| **BR-08** | **Secure & Compliant Data** – bảo mật, minh bạch, tuân thủ pháp luật VN                        | Xây dựng lòng tin & chuẩn hóa vận hành     |
+| ID        | Business Requirement                                                                                  | Value Objective                      |
+| --------- | ----------------------------------------------------------------------------------------------------- | ------------------------------------ |
+| **BR-01** | **Unified Travel Planner** – integrates search, organization, notes, and budgeting into one           | Solve fragmentation & save time      |
+| **BR-02** | **AI Recommendation Engine** – suggests itineraries, places, activities based on preferences & budget | Personalize experience               |
+| **BR-03** | **Trusted Review System** – verify real reviews, anti-spam, filter by Vietnamese users                | Build trust in content               |
+| **BR-04** | **Group Collaboration** – real-time group planning with voting & version control                      | Improve group coordination           |
+| **BR-05** | **Knowledge Sharing Loop** – motivate users to share trips, plans, tips                               | Build a sustainable community        |
+| **BR-06** | **Local Business Hub** – display SMEs/destinations, measure performance, attract customers            | Expand ecosystem & revenue           |
+| **BR-07** | **Mobile-First & Scalable Platform** – smooth UX, fast loading, stable                                | Retain users, optimize cost          |
+| **BR-08** | **Secure & Compliant Data** – secure, transparent, compliant with Vietnamese laws                     | Build trust & standardize operations |
 
 ---
 
 ## **5. STRATEGIC PRIORITIES (12-MONTH FOCUS)**
 
-| Phase                       | Thời gian  | Ưu tiên             | Kết quả mong đợi                                    |
-| --------------------------- | ---------- | ------------------- | --------------------------------------------------- |
-| **Phase 1: MVP**            | Tháng 1–5  | BR-01, BR-02, BR-03 | Ứng dụng planning cơ bản + AI suggestion + review   |
-| **Phase 2: Beta Expansion** | Tháng 6–8  | BR-04, BR-05        | Group collaboration & community sharing             |
-| **Phase 3: Monetization**   | Tháng 9–12 | BR-06, BR-07, BR-08 | Local business hub + subscription + legal readiness |
+| Phase                       | Timeline    | Priority            | Expected Outcome                                |
+| --------------------------- | ----------- | ------------------- | ----------------------------------------------- |
+| **Phase 1: MVP**            | Months 1–5  | BR-01, BR-02, BR-03 | Basic planning app + AI suggestions + reviews   |
+| **Phase 2: Beta Expansion** | Months 6–8  | BR-04, BR-05        | Group collaboration & community sharing         |
+| **Phase 3: Monetization**   | Months 9–12 | BR-06, BR-07, BR-08 | Local business hub + subscription + legal-ready |
 
 ---
 
 ## **6. STRATEGIC RISKS & RESPONSE**
 
-| Risk                                    | Ảnh hưởng              | Phản ứng chiến lược                        |
-| --------------------------------------- | ---------------------- | ------------------------------------------ |
-| **Thói quen người dùng khó thay đổi**   | Adoption chậm          | Onboarding tối giản, AI suggestion hấp dẫn |
-| **Thiếu nội dung ban đầu (cold start)** | Khó xây cộng đồng      | Gamification & influencer seeding          |
-| **Cạnh tranh từ big players**           | Mất lợi thế tiên phong | Ra mắt nhanh, chiếm cộng đồng trước        |
-| **Nguồn lực hạn chế ($180K)**           | Giới hạn tốc độ dev    | MVP lean, ưu tiên 3 tính năng cốt lõi      |
-| **Window cơ hội 2–3 năm**               | Mất timing             | MVP ≤ 5 tháng, nhanh chóng test thị trường |
+| Risk                                      | Impact                  | Strategic Response                               |
+| ----------------------------------------- | ----------------------- | ------------------------------------------------ |
+| **User habits are hard to change**        | Slow adoption           | Simplified onboarding, attractive AI suggestions |
+| **Initial content scarcity (cold start)** | Hard to build community | Gamification & influencer seeding                |
+| **Competition from big players**          | Loss of first-mover     | Launch fast, capture community early             |
+| **Limited resources ($180K)**             | Slow development speed  | Lean MVP, prioritize 3 core features             |
+| **2–3 year opportunity window**           | Miss timing             | MVP ≤ 5 months, rapid market testing             |
 
 ---
 
 ## **7. SUCCESS METRICS (BY YEAR 1)**
 
-| Hạng mục                           | Chỉ tiêu mục tiêu                   |
-| ---------------------------------- | ----------------------------------- |
-| **Active Users (MAU)**             | ≥100,000                            |
-| **Avg. Planning Time**             | ≤7 giờ/chuyến                       |
-| **Review Trust Index**             | ≥75% người dùng đánh giá “reliable” |
-| **Community Engagement**           | ≥60% người dùng viết review/chia sẻ |
-| **Revenue**                        | ≥$50,000                            |
-| **User Satisfaction (App rating)** | ≥4.2/5                              |
+| Category                           | Target Metric                  |
+| ---------------------------------- | ------------------------------ |
+| **Active Users (MAU)**             | ≥100,000                       |
+| **Avg. Planning Time**             | ≤7 hours per trip              |
+| **Review Trust Index**             | ≥75% users rate “reliable”     |
+| **Community Engagement**           | ≥60% users write/share reviews |
+| **Revenue**                        | ≥$50,000                       |
+| **User Satisfaction (App rating)** | ≥4.2/5                         |
 
 ---
 
 ## **8. STRATEGIC SUMMARY**
 
-> Ứng dụng gợi ý & lên kế hoạch du lịch hướng đến việc **định hình lại cách người Việt lên kế hoạch chuyến đi** – từ một chuỗi thao tác rời rạc, mất thời gian, trở thành trải nghiệm **tích hợp, đáng tin cậy, và cộng đồng hóa**.
+> A travel planning & suggestion app aimed at **redefining how Vietnamese users plan their trips** – from a series of fragmented, time-consuming steps into an **integrated, trustworthy, and community-driven** experience.
 >
-> Thành công của dự án phụ thuộc vào:
+> The success of the project depends on:
 >
-> 1. **Tốc độ ra mắt (speed to market)**
-> 2. **Xây dựng niềm tin (trust-first)**
-> 3. **Tạo giá trị cộng đồng (network-driven growth)**
+> 1. **Speed to market**
+> 2. **Building user trust (trust-first)**
+> 3. **Creating community value (network-driven growth)**
 >
-> 👉 Nếu triển khai đúng hướng, ứng dụng có thể trở thành **“TripAdvisor + Notion + Zalo Travel Hub”** dành riêng cho người Việt trong vòng **2 năm**.
+> 👉 If executed properly, the app could become a **“TripAdvisor + Notion + Zalo Travel Hub”** tailored for Vietnamese users within **2 years**.

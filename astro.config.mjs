@@ -93,6 +93,11 @@ export default defineConfig({
               slug: "knowledge-areas/business-requirements",
               translations: { vi: "Yêu cầu kinh doanh" },
             },
+            {
+              label: "Business Objectives",
+              slug: "knowledge-areas/business-objectives",
+              translations: { vi: "Mục tiêu kinh doanh" },
+            },
           ],
           translations: { vi: "Lĩnh vực kiến thức" },
         },

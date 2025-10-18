@@ -4,167 +4,167 @@ title: CORE BUSINESS REQUIREMENTS EXPLANATION
 
 ## **BR-01. Unified Travel Planner**
 
-**Mục tiêu:**
-Giảm phân mảnh, giúp người dùng có thể **tìm kiếm – lưu trữ – sắp xếp – lên lịch trình – tính chi phí** trong một không gian duy nhất.
+**Objective:**  
+Reduce fragmentation, allowing users to **search – save – organize – schedule – calculate budget** all in one space.
 
-**Vì sao quan trọng:**
+**Why it matters:**
 
-- Hiện người dùng phải dùng 5–10 công cụ (Google, Notes, Excel, Facebook Group, Maps, v.v.) → gây stress & mất kiểm soát thông tin.
-- Một giao diện lập kế hoạch tích hợp giúp rút ngắn thời gian 50%, là **USP** rõ rệt trong thị trường chưa có sản phẩm tương tự.
+- Currently, users need to use 5–10 tools (Google, Notes, Excel, Facebook Groups, Maps, etc.) → causing stress & loss of information control.
+- An integrated planning interface shortens planning time by 50%, and is a clear **USP** in a market lacking such solutions.
 
-**Giá trị tạo ra:**
+**Value Created:**
 
-- Giảm thời gian lập kế hoạch từ 10–15h → còn ≤7h
-- Tăng cảm giác “control” và “clarity” khi tổ chức chuyến đi
-- Là **móng nền** để tích hợp các module thông minh sau (AI, group, review)
+- Reduce planning time from 10–15h → to ≤7h
+- Increase sense of “control” and “clarity” when organizing a trip
+- Acts as a **foundation** to integrate future smart modules (AI, group, review)
 
 ---
 
 ## **BR-02. AI Recommendation Engine**
 
-**Mục tiêu:**
-Cung cấp gợi ý tự động (AI/ML) về địa điểm, hoạt động, lịch trình, và ngân sách phù hợp từng người dùng.
+**Objective:**  
+Provide automated (AI/ML) suggestions for destinations, activities, itineraries, and budgets tailored to each user.
 
-**Vì sao quan trọng:**
+**Why it matters:**
 
-- Người dùng tốn trung bình 2–3h chỉ để research mỗi điểm đến.
-- AI có thể phân tích hành vi, sở thích, thời gian & ngân sách để cá nhân hóa.
-- Tạo sự khác biệt với mô hình “manual planning” truyền thống.
+- Users spend on average 2–3h just researching each destination.
+- AI can analyze behavior, preferences, time & budget to personalize.
+- Differentiates from traditional “manual planning” methods.
 
-**Giá trị tạo ra:**
+**Value Created:**
 
-- Tiết kiệm thời gian research
-- Tăng engagement (vì app “biết mình muốn gì”)
-- Nền tảng dữ liệu cho các mô-đun thông minh trong tương lai (predictive travel)
+- Save research time
+- Increase engagement (because the app “knows what I want”)
+- Data foundation for future smart modules (predictive travel)
 
 ---
 
 ## **BR-03. Trusted Review System**
 
-**Mục tiêu:**
-Tạo **hệ sinh thái review thật** – xác thực qua hành trình, ảnh check-in, hoặc liên kết lịch trình.
+**Objective:**  
+Build a **trustworthy review ecosystem** — verified via trip data, check-in photos, or linked itineraries.
 
-**Vì sao quan trọng:**
+**Why it matters:**
 
-- 55% người Việt không tin review hiện có (nhiều nội dung giả hoặc được tài trợ).
-- Niềm tin là nền tảng cho retention & network effect.
+- 55% of Vietnamese users do not trust current reviews (due to fake or sponsored content).
+- Trust is the foundation for retention & network effect.
 
-**Giá trị tạo ra:**
+**Value Created:**
 
-- Tăng niềm tin người dùng, giảm rủi ro trải nghiệm tệ
-- Khác biệt với Facebook Group/TripAdvisor (thiếu xác thực địa phương)
-- Cơ sở để phát triển các chỉ số như **“Local Trust Score”**
+- Increase user trust, reduce risk of bad experiences
+- Differentiate from Facebook Groups/TripAdvisor (which lack local verification)
+- Basis for developing metrics like **“Local Trust Score”**
 
 ---
 
 ## **BR-04. Group Collaboration**
 
-**Mục tiêu:**
-Cho phép nhóm bạn/gia đình cùng **lên kế hoạch, bình chọn, chỉnh sửa real-time**, và quản lý phiên bản.
+**Objective:**  
+Enable groups of friends/families to **plan together, vote, edit in real-time**, and manage versions.
 
-**Vì sao quan trọng:**
+**Why it matters:**
 
-- 60–70% chuyến du lịch ở Việt Nam là **du lịch nhóm**.
-- 80% nhóm gặp rắc rối với version control và chia sẻ qua Messenger.
+- 60–70% of trips in Vietnam are **group travel**.
+- 80% of groups face issues with version control and coordination via Messenger.
 
-**Giá trị tạo ra:**
+**Value Created:**
 
-- Giảm friction khi phối hợp
-- Tăng khả năng viral (mỗi nhóm = 5–8 users mới)
-- Xây dựng nền tảng cộng tác có thể mở rộng cho nhiều mô hình (team trip, tour community)
+- Reduce friction in coordination
+- Increase viral potential (each group = 5–8 new users)
+- Build a collaborative foundation expandable to other models (team trips, tour communities)
 
 ---
 
 ## **BR-05. Knowledge Sharing Loop**
 
-**Mục tiêu:**
-Chuyển đổi kiến thức cá nhân sau chuyến đi thành nội dung cộng đồng thông qua **gamification, profile cá nhân, và chia sẻ plan công khai**.
+**Objective:**  
+Turn personal post-trip knowledge into community content through **gamification, user profiles, and public plan sharing**.
 
-**Vì sao quan trọng:**
+**Why it matters:**
 
-- Hiện 85% người dùng **không viết review**, dẫn đến vòng “thiếu dữ liệu → khó plan → ít review”.
-- Cần phá vỡ “cold start problem” bằng **động lực nội tại (social validation)**.
+- Currently 85% of users **don’t write reviews**, creating a loop of “lack of data → hard to plan → few reviews”.
+- Need to break the “cold start problem” via **intrinsic motivation (social validation)**.
 
-**Giá trị tạo ra:**
+**Value Created:**
 
-- Hình thành “knowledge network” của người Việt
-- Giảm chi phí nội dung do user-generated
-- Tăng retention & word-of-mouth
+- Build a “knowledge network” of Vietnamese users
+- Reduce content costs via user-generated content
+- Increase retention & word-of-mouth
 
 ---
 
 ## **BR-06. Local Business Hub**
 
-**Mục tiêu:**
-Cung cấp kênh cho **SMEs (nhà hàng, khách sạn, điểm đến)** để quảng bá & đo lường hiệu quả qua nền tảng.
+**Objective:**  
+Provide a channel for **SMEs (restaurants, hotels, destinations)** to promote and measure performance via the platform.
 
-**Vì sao quan trọng:**
+**Why it matters:**
 
-- SMEs bị các OTA lớn (Booking, Traveloka) áp đảo, thiếu kênh dữ liệu trực tiếp.
-- Cơ quan du lịch cần insight về hành vi du khách.
+- SMEs are overshadowed by big OTAs (Booking, Traveloka), lacking direct data channels.
+- Tourism authorities need insights into traveler behavior.
 
-**Giá trị tạo ra:**
+**Value Created:**
 
-- Nguồn doanh thu ổn định (B2B subscription, affiliate)
-- Tăng giá trị mạng lưới (business + user + content = ecosystem)
-- Mở đường cho mô hình “destination analytics” trong tương lai
+- Stable revenue source (B2B subscription, affiliate)
+- Increase network value (business + user + content = ecosystem)
+- Pave the way for “destination analytics” model in the future
 
 ---
 
 ## **BR-07. Mobile-First & Scalable Platform**
 
-**Mục tiêu:**
-Đảm bảo trải nghiệm mượt trên mobile & web (PWA), có thể mở rộng hạ tầng theo tăng trưởng người dùng.
+**Objective:**  
+Ensure smooth experience on mobile & web (PWA), with infrastructure scalable to user growth.
 
-**Vì sao quan trọng:**
+**Why it matters:**
 
-- > 70% người dùng Việt lên kế hoạch & tra cứu trong lúc di chuyển.
-- Tốc độ và UX là yếu tố quyết định giữ chân người dùng đầu tiên.
+- > 70% of Vietnamese users plan & research while on the move.
+- Speed and UX are critical for retaining first-time users.
 
-**Giá trị tạo ra:**
+**Value Created:**
 
 - App rating ≥4.2/5
-- Giảm churn rate trong 3 tháng đầu
-- Giữ chi phí server thấp, dễ mở rộng sang native app sau này
+- Reduce churn rate in first 3 months
+- Keep server costs low, easy to scale to native app later
 
 ---
 
 ## **BR-08. Secure & Compliant Data Handling**
 
-**Mục tiêu:**
-Đảm bảo toàn bộ dữ liệu người dùng được quản lý minh bạch, tuân thủ Luật Bảo vệ Dữ liệu Việt Nam.
+**Objective:**  
+Ensure all user data is transparently managed and compliant with Vietnam's Data Protection Law.
 
-**Vì sao quan trọng:**
+**Why it matters:**
 
-- Cơ sở pháp lý để mở rộng quy mô sản phẩm (đặc biệt khi tích hợp thanh toán hoặc booking).
-- Xây dựng niềm tin thương hiệu bền vững.
+- Legal foundation for scaling the product (especially with payments or bookings).
+- Build sustainable brand trust.
 
-**Giá trị tạo ra:**
+**Value Created:**
 
-- Không có sự cố rò rỉ hoặc vi phạm
-- Cải thiện brand trust
-- Tăng khả năng hợp tác với đối tác nhà nước và quốc tế
-
----
-
-## **Tổng kết phụ lục**
-
-| Mã BR | Chức năng trọng tâm | Giá trị chính               | Liên kết mục tiêu |
-| ----- | ------------------- | --------------------------- | ----------------- |
-| BR-01 | Planner tích hợp    | Giảm thời gian plan         | BG-01             |
-| BR-02 | AI Recommendation   | Cá nhân hóa                 | BG-01, BG-02      |
-| BR-03 | Trusted Reviews     | Xây niềm tin                | BG-02             |
-| BR-04 | Group Collaboration | Tăng phối hợp, viral growth | BG-01, BG-03      |
-| BR-05 | Knowledge Sharing   | Cộng đồng hóa dữ liệu       | BG-03             |
-| BR-06 | Local Business Hub  | Mở doanh thu & ecosystem    | BG-04, BG-06      |
-| BR-07 | Mobile-First UX     | Giữ chân người dùng         | BG-05             |
-| BR-08 | Secure Data         | Niềm tin & pháp lý          | BG-06             |
+- No data leaks or violations
+- Improve brand trust
+- Increase partnership potential with government and international stakeholders
 
 ---
 
-> ⚙️ **Tóm gọn:**
-> Tám yêu cầu kinh doanh này là **bộ khung giá trị cốt lõi** cho sản phẩm —
-> mỗi yêu cầu không chỉ giải quyết một pain point cụ thể, mà còn tạo đòn bẩy chiến lược để đạt được ba mục tiêu tổng thể:
-> **(1)** Giảm ma sát (Friction Reduction)
-> **(2)** Xây dựng niềm tin (Trust Building)
-> **(3)** Mở rộng cộng đồng & hệ sinh thái (Network Expansion)
+## **Appendix Summary**
+
+| BR Code | Core Function       | Key Value                          | Linked Objectives |
+| ------- | ------------------- | ---------------------------------- | ----------------- |
+| BR-01   | Integrated Planner  | Reduce planning time               | BG-01             |
+| BR-02   | AI Recommendation   | Personalization                    | BG-01, BG-02      |
+| BR-03   | Trusted Reviews     | Build trust                        | BG-02             |
+| BR-04   | Group Collaboration | Improve coordination, viral growth | BG-01, BG-03      |
+| BR-05   | Knowledge Sharing   | Community-driven data              | BG-03             |
+| BR-06   | Local Business Hub  | Unlock revenue & ecosystem         | BG-04, BG-06      |
+| BR-07   | Mobile-First UX     | User retention                     | BG-05             |
+| BR-08   | Secure Data         | Trust & legal compliance           | BG-06             |
+
+---
+
+> ⚙️ **In summary:**  
+> These eight business requirements form the **core value framework** of the product —  
+> each one not only addresses a specific pain point but also serves as a strategic lever to achieve the three overarching goals:  
+> **(1)** Friction Reduction  
+> **(2)** Trust Building  
+> **(3)** Network Expansion
