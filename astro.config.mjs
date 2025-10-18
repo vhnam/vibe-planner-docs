@@ -113,6 +113,11 @@ export default defineConfig({
               slug: "knowledge-areas/business-analysis-approach",
               translations: { vi: "Cách tiếp cận phân tích kinh doanh" },
             },
+            {
+              label: "Stakeholder Engagement Approach",
+              slug: "knowledge-areas/stakeholder-engagement-approach",
+              translations: { vi: "Cách tương tác với các bên liên quan" },
+            }
           ],
           translations: { vi: "Lĩnh vực kiến thức" },
         },
