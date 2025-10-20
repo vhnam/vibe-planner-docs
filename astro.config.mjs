@@ -159,6 +159,21 @@ export default defineConfig({
               slug: "defines/user-persona",
               translations: { vi: "Chân dung người dùng" },
             },
+            {
+              label: "User Journey",
+              slug: "defines/user-journey",
+              translations: { vi: "Hành trình người dùng" },
+            },
+            {
+              label: "Problem Statements",
+              slug: "defines/problem-statements",
+              translations: { vi: "Phát biểu vấn đề" },
+            },
+            {
+              label: "Loyalty Strategy",
+              slug: "defines/loyalty-strategy",
+              translations: { vi: "Chiến lược Loyalty" },
+            },
           ],
           translations: { vi: "Định nghĩa" },
         },
