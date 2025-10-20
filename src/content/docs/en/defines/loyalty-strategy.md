@@ -126,7 +126,3 @@ because each journey becomes both **their own memory** and **someone else’s in
 
 > “Users don’t stay because they are rewarded,
 > they stay because **their journeys are remembered – and inspire others.**”
-
-```
-
-```

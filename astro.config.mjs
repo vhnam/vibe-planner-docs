@@ -170,6 +170,11 @@ export default defineConfig({
               translations: { vi: "Phát biểu vấn đề" },
             },
             {
+              label: "Hypotheses Statements",
+              slug: "defines/hypotheses-statements",
+              translations: { vi: "Giả thuyết thiết kế" },
+            },
+            {
               label: "Loyalty Strategy",
               slug: "defines/loyalty-strategy",
               translations: { vi: "Chiến lược Loyalty" },
