@@ -152,6 +152,17 @@ export default defineConfig({
           translations: { vi: "Lĩnh vực kiến thức" },
         },
         {
+          label: "Defines",
+          items: [
+            {
+              label: "User Persona",
+              slug: "defines/user-persona",
+              translations: { vi: "Chân dung người dùng" },
+            },
+          ],
+          translations: { vi: "Định nghĩa" },
+        },
+        {
           label: "Appendix",
           autogenerate: { directory: "appendix" },
           translations: { vi: "Phụ lục" },
