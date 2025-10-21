@@ -183,6 +183,26 @@ export default defineConfig({
           translations: { vi: "Định nghĩa" },
         },
         {
+          label: "Design",
+          items: [
+            {
+              label: "Role Definition Document - Frontline",
+              slug: "design/role-definition-document-frontline",
+              translations: {
+                vi: "Tài liệu định nghĩa vai trò - Hệ thống frontline",
+              },
+            },
+            {
+              label: "Role Definition Document - Back Office",
+              slug: "design/role-definition-document-back-office",
+              translations: {
+                vi: "Tài liệu định nghĩa vai trò - Hệ thống back office",
+              },
+            },
+          ],
+          translations: { vi: "Thiết kế" },
+        },
+        {
           label: "Appendix",
           autogenerate: { directory: "appendix" },
           translations: { vi: "Phụ lục" },
