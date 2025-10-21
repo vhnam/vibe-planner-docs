@@ -1,0 +1,41 @@
+@startuml SystemContext
+left to right direction
+skinparam packageStyle rectangle
+
+actor "Traveler / Frontline Users" as Users
+actor "Guest / Viewer" as Guest
+actor "Creator / Contributor" as Creators
+
+package "Frontline App" {
+  [Trip Management]
+  [Spot & Review UI]
+  [Story / Social Layer]
+  [Recommendation Client]
+}
+
+package "Back Office System" {
+  [Moderation & Curator Dashboard]
+  [Data Integration & ETL]
+  [Recommender Lab]
+  [Analytics & Admin]
+}
+
+Users --> [Trip Management] : create/edit trips
+Users --> [Spot & Review UI] : submit reviews, create spots
+Creators --> [Story / Social Layer] : publish stories
+Guest --> [Story / Social Layer] : view shared story
+
+[Spot & Review UI] --> [Moderation & Curator Dashboard] : submit content (pending)
+[Trip Management] --> [Data Integration & ETL] : sync metadata (optional)
+[Story / Social Layer] --> [Analytics & Admin] : engagement events
+[Recommendation Client] <..> [Recommender Lab] : recommendation signals / model updates
+[Data Integration & ETL] --> [Spot & Review UI] : provide authoritative place data
+[Moderation & Curator Dashboard] --> [Spot & Review UI] : publish/approve content
+[Analytics & Admin] --> [Frontline App] : aggregate metrics, reward events
+
+note bottom
+This context diagram shows main data flows:
+- UGC flows from Frontline to Back Office for moderation & integration.
+- Curated/verified data and recommender outputs flow back to Frontline.
+end note
+@enduml
